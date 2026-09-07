@@ -75,15 +75,21 @@
   },
   {
     "ContainingType": "template_API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "Method": "getCityInfo",
+    "RelativePath": "WeatherForecast/city/{city}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[template_API.WeatherForecast, template_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "template_API.DTOs.WeatherForecastDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -91,7 +97,150 @@
         ],
         "StatusCode": 200
       }
+    ]
+  },
+  {
+    "ContainingType": "template_API.Controllers.WeatherForecastController",
+    "Method": "GetHistoricalData",
+    "RelativePath": "WeatherForecast/historical-data/{city}\u0026{startDate}\u0026{endDate}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": true
+      }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": [
+      {
+        "Type": "template_API.Models.WeatherModelList",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "template_API.Controllers.WeatherForecastController",
+    "Method": "GetTemperatureMean",
+    "RelativePath": "WeatherForecast/historical-data/{city}\u0026{startDate}\u0026{endDate}/mean",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Single",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "template_API.Controllers.WeatherForecastController",
+    "Method": "GetTemperatureRange",
+    "RelativePath": "WeatherForecast/historical-data/{city}\u0026{startDate}\u0026{endDate}/range",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[template_API.Models.DailyTemperatureModel, template_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "template_API.Controllers.WeatherForecastController",
+    "Method": "GetStandardDeviation",
+    "RelativePath": "WeatherForecast/historical-data/{city}\u0026{startDate}\u0026{endDate}/standard_deviation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "startDate",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

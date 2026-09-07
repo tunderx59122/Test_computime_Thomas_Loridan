@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WIUy/EUoSjE=",
+  "dgSpecHash": "cx/zyP4skKU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\template_API\\template_API.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\template_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thoma\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

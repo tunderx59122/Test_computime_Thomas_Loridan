@@ -1,14 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\",
+  "WorkspaceRootPath": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\dev_perso\\basic_template\\template_dotnet\\template_api\\template_api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\models\\dailytemperaturemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\models\\dailytemperaturemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\models\\weathermodellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\models\\weathermodellist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\models\\weathermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\data\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\data\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\dev_perso\\basic_template\\template_dotnet\\template_api\\template_api\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\services\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|c:\\users\\thoma\\desktop\\test_computime\\test_computime_thomas_loridan\\template_api\\template_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C320DBEC-A60F-4C26-890A-D72B26DD53A2}|template_API\\template_API.csproj|solutionrelative:template_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,11 +58,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DailyTemperatureModel.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\DailyTemperatureModel.cs",
+              "RelativeDocumentMoniker": "template_API\\Models\\DailyTemperatureModel.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\DailyTemperatureModel.cs",
+              "RelativeToolTip": "template_API\\Models\\DailyTemperatureModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T13:23:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherModelList.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\WeatherModelList.cs",
+              "RelativeDocumentMoniker": "template_API\\Models\\WeatherModelList.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\WeatherModelList.cs",
+              "RelativeToolTip": "template_API\\Models\\WeatherModelList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:56:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Program.cs",
+              "RelativeDocumentMoniker": "template_API\\Program.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Program.cs",
+              "RelativeToolTip": "template_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:40:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "template_API\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Services\\WeatherService.cs",
+              "RelativeToolTip": "template_API\\Services\\WeatherService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T12:38:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherModel.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\WeatherModel.cs",
+              "RelativeDocumentMoniker": "template_API\\Models\\WeatherModel.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Models\\WeatherModel.cs",
+              "RelativeToolTip": "template_API\\Models\\WeatherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:23:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "template_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "template_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:19:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Data\\SampleDbContext.cs",
+              "RelativeDocumentMoniker": "template_API\\Data\\SampleDbContext.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Data\\SampleDbContext.cs",
+              "RelativeToolTip": "template_API\\Data\\SampleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:17:28.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "template_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "template_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-07T11:17:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SampleService.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\template_API\\Services\\SampleService.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Services\\SampleService.cs",
               "RelativeDocumentMoniker": "template_API\\Services\\SampleService.cs",
-              "ToolTip": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\template_API\\Services\\SampleService.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Services\\SampleService.cs",
               "RelativeToolTip": "template_API\\Services\\SampleService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwBkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -39,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\template_API\\Controllers\\ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "template_API\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\thoma\\Desktop\\dev_perso\\basic_template\\Template_DotNet\\template_API\\template_API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\thoma\\Desktop\\test_computime\\Test_computime_Thomas_Loridan\\template_API\\template_API\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "template_API\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAADwv1wAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T20:37:31.653Z",
               "EditorCaption": ""
